@@ -85,3 +85,24 @@ a:hover {
     text-decoration: underline; /* Add underline on hover */
     color: #0044aa; /* Darker blue on hover */
 }
+.github-icon {
+    position: fixed;
+    bottom: 20px;  /* Adjust distance from bottom */
+    right: 20px;   /* Adjust distance from right */
+    width: 50px;   /* Icon size */
+    height: 50px;
+}
+.linkedin-icon {
+    position: fixed;
+    bottom: 20px;  /* Adjust distance from bottom */
+    right: 80px;   /* Adjust distance from right */
+    width: 60px;   /* Icon size */
+    height: 50px;
+}
+.insta-icon {
+    position: fixed;
+    bottom: 15px;  /* Adjust distance from bottom */
+    right: 150px;   /* Adjust distance from right */
+    width: 60px;   /* Icon size */
+    height: 60px;
+}
