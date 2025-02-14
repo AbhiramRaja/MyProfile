@@ -85,6 +85,7 @@ a:hover {
     text-decoration: underline; /* Add underline on hover */
     color: #0044aa; /* Darker blue on hover */
 }
+
 .github-icon {
     position: fixed;
     bottom: 20px;  /* Adjust distance from bottom */
@@ -93,7 +94,7 @@ a:hover {
     height: 50px;
 }
 .linkedin-icon {
-    position: fixed;
+    position: fixed; 
     bottom: 20px;  /* Adjust distance from bottom */
     right: 80px;   /* Adjust distance from right */
     width: 60px;   /* Icon size */
